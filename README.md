@@ -5,12 +5,12 @@
 ## Scope:
 One Project Manager position and one to two engineer positions to fulfill the mission of The 256 Foundation, “Dismantle the proprietary mining empire to make Bitcoin and freedom tech accessible to anyone”. This grant proposal aims to secure funding for:
 
-    • One project manager to oversee and ensure mission adherence, timeliness, and execution. 
-    • One to two engineers to develop the Libre Board hardware.
-    • Libre Board specifics: Fully open-source with a variety of I/O standards and versatile compute module configuration. 
-    • Supporting documentation and specifications. 
-    • This project is fully open-source CERN-OHL-S licensed.
-    • Excluded from this proposal are sales, distribution, marketing, and customer technical support.
+* One project manager to oversee and ensure mission adherence, timeliness, and execution. 
+* One to two engineers to develop the Libre Board hardware.
+* Libre Board specifics: Fully open-source with a variety of I/O standards and versatile compute module configuration. 
+* Supporting documentation and specifications. 
+* This project is fully open-source CERN-OHL-S licensed.
+* Excluded from this proposal are sales, distribution, marketing, and customer technical support.
 
 In summary, the Libre Board project delivers an open-source mining control board with a variety of I/O standards including but not limited to 8 USB ports to communicate with up to 8 Ember One hashboards, Ethernet port, WiFi adapter, an HDMI port, fan connections, NVME SSD connection to expand the storage volume capacity, two 100-pin high density electrical interface connectors for the compute module, and accepts 12-24 VDC input voltage. The open-source nature makes integrating it in a variety of ways possible; giving end-users complete control over all variables of form factor and which I/O connections are required for their miners.
 
