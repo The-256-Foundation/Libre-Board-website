@@ -1,3 +1,6 @@
+## Motivation
+There are no open-source control boards and we set out to change that with this project. There are many aftermarket control boards but they are all closed source. First and foremost the Libre Board will be built to finalize the Ember One complete mining system. There will be a number of options added to the first Libre Board with the intention of it being able to handle running a Bitcoin full node and stable Stratum server while also running the Ember One hashboards. There will be a wide selection of standardized I/O ports on the Libre Board like several USB adapters for connecting to the Ember One hashboards, Ethernet, HDMI, NVME, fan connectors, and WiFi. Future forks of the Libre Board can then modify the form factor and reduce the I/O options and change the fan and hashboard connectors to match Antminers, Whatsminers, or any other miner that the end user wants. The Libre Board will also feature standardized two 100-pin connectors for the compute module so that users can decide if they want to run a RISC-V, ARM, or other processor. Since the mining firmware, Mujina, is Linux based it can be deployed on any module the end user chooses.   
+
 <p align="center">
 <img width="500" src="assets/Libre-Board-Lander.jpg">
 </p>
