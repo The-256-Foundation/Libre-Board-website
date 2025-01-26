@@ -5,6 +5,8 @@ There are no open-source control boards and we set out to change that with this 
 <img width="500" src="assets/Libre-Board-Lander.jpg">
 </p>
 
+If this sounds like a project you want to support, then send The 256 Foundaton a tax deductible donation [here](https://pay.zaprite.com/pl_ZRWeSGjRWG)! Or use The 256 Foundation [PayNym](https://paynym.rs/+appetizingadministration90)!
+
 ## Scope:
 One Project Manager position and one to two engineer positions to fulfill the mission of The 256 Foundation, “Dismantle the proprietary mining empire to make Bitcoin and freedom tech accessible to anyone”. This grant proposal aims to secure funding for:
 
